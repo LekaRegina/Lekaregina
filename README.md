@@ -15,7 +15,7 @@ Me chamo Alessandra Regina, porém, meu apelido é Leka.
 - 👯 Quero colaborar com todos os meus aprendizados dentro do DevClub.
 
 
-[![Leka Stats](https://github-readme-stats.vercel.app/api?username=lekaregina)](https://github.com/anuraghazra/github-readme-stats)
+[![LekaStats](https://github-readme-stats.vercel.app/api?username=lekaregina)](https://github.com/anuraghazra/github-readme-stats)
 
 
 -->
