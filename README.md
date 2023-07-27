@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there :blush:
 Me chamo Alessandra Regina, porém, meu apelido é Leka.
 
 - 🔭 Atualmente, estou desempregada.
