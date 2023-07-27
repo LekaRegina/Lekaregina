@@ -14,7 +14,7 @@ Me chamo Alessandra Regina, porém, meu apelido é Leka.
 
 - 👯 Quero colaborar com todos os meus aprendizados dentro do DevClub.
 
-- 📫 Como chegar até mim:
+
 
 
 -->
