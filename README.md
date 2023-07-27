@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**LekaRegina/Lekaregina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Alessandra Regina, porém, meu apelido é Leka.
 
-Here are some ideas to get you started:
+- 🔭 Atualmente, estou desempregada.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🌱 No momento estou aprendendo e criando projestos com
+- HTML <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=whit" alt="html-logo">
+- - CSS
+- 
+- Iniciando o aprendizado de JavaScript e React
+- 👯 Quero colaborar com todos os mesu aprendizados dentro do DevClub.
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 Como chegar até mim: 
+
 -->
