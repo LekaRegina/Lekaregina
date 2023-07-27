@@ -16,6 +16,5 @@ Me chamo Alessandra Regina, porém, meu apelido é Leka.
 
 - 📫 Como chegar até mim: 
 
-<P>
-<a href="https://www.instagram.com/ale_santiago77/"
+
 -->
