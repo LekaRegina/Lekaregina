@@ -14,7 +14,9 @@ Me chamo Alessandra Regina, porém, meu apelido é Leka.
 
 - 👯 Quero colaborar com todos os meus aprendizados dentro do DevClub.
 
-- 📫 Como chegar até mim: 
+- 📫 Como chegar até mim:
 
-
+<p>
+<a href="https://www.instagram.com/ale_santiago77/)https://www.instagram.com/ale_santiago77">  
+<img align="left" alt="icone do instagram uma camera dentro de um quadrado" width="22px" src="https://cdn.jdeslivr.net/npm/simple-icons@v3/icons.instagram.svg"/> 
 -->
