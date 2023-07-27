@@ -13,7 +13,7 @@ Me chamo Alessandra Regina, porém, meu apelido é Leka.
 - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React-logo">
 
 - 👯 Quero colaborar com todos os meus aprendizados dentro do DevClub.
-- 💬 Ask me about ...
+
 - 📫 Como chegar até mim: 
 
 -->
